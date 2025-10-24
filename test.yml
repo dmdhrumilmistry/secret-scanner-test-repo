@@ -5,6 +5,7 @@
 # BROWSERSTACK_ACCESS_KEY as env variables
 userName: justanothertesta_Wy5aJs
 accessKey: K2YmtzkcuTJnw4Qmxzg6
+# this a test commit to check feature branch checkout scan
 
 # ======================
 # BrowserStack Reporting
